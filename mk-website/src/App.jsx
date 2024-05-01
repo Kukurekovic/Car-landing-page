@@ -18,7 +18,7 @@ const App = () => {
       setHeroCount((count) => {
         return count === 2 ? 0 : count + 1;
       });
-    }, 3000);
+    }, 4000);
   }, []);
 
   return (
