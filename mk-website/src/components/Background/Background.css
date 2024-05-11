@@ -20,5 +20,24 @@
   }
 }
 .fade-in {
-  animation: fadeIn 500ms ease-in-out;
+  animation: fadeIn 200ms ease-in-out;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 768px) {
+  .background {
+    /* Adjustments for smaller screens */
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .background {
+    /* Adjustments for medium-sized screens */
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .background {
+    /* Adjustments for larger screens */
+  }
 }
