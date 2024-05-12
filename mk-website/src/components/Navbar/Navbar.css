@@ -97,6 +97,23 @@
     padding: 6px 10px;
   }
 }
+@media screen and (max-width: 413px) {
+  .nav {
+    margin: 10px 10px;
+  }
+  .nav-logo {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .nav-menu {
+    font-size: 10px;
+    gap: 8px;
+  }
+
+  .nav-contact {
+    padding: 6px 16px;
+  }
+}
 @media screen and (max-width: 376px) {
   .nav {
     margin: 10px 10px;
