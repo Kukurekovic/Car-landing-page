@@ -63,7 +63,7 @@
     padding: 8px 28px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .nav {
     margin: 20px 80px;
   }
@@ -80,9 +80,9 @@
     padding: 6px 22px;
   }
 }
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 641px) {
   .nav {
-    margin: 20px 60px;
+    margin: 20px 20px;
   }
   .nav-logo {
     font-size: 22px;
@@ -91,6 +91,23 @@
   .nav-menu {
     font-size: 12px;
     gap: 22px;
+  }
+
+  .nav-contact {
+    padding: 6px 10px;
+  }
+}
+@media screen and (max-width: 376px) {
+  .nav {
+    margin: 10px 10px;
+  }
+  .nav-logo {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .nav-menu {
+    font-size: 10px;
+    gap: 8px;
   }
 
   .nav-contact {
