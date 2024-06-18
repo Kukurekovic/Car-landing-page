@@ -4,10 +4,10 @@ Welcome to ArtDeco, a delightful webshop offering a wide range of furniture and 
 
 ## Demo
 
-A live version of this project can be found at https://webshop10-kukurekovics-projects.vercel.app/
+A live version of this project can be found at https://car-landing-page-seven.vercel.app/
 
 ## Preview
-![1 ArtDeco sm](https://github.com/Kukurekovic/webshop10/assets/113231854/d8008989-8670-4e1c-887d-cdc18f033da3)
+![3 Evolution sm](https://github.com/Kukurekovic/Car-landing-page/assets/113231854/8fa7c9a9-0e16-4104-9cb0-a4365d5b9f69)
 
 ## Features
 
