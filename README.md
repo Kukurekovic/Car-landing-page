@@ -1,6 +1,6 @@
 
 # EVolution
-Welcome to ArtDeco, a delightful webshop offering a wide range of furniture and wardrobes!
+A stunning and user-friendly landing page designed to turn visitors into happy customers!
 
 ## Demo
 
